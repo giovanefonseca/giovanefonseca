@@ -7,3 +7,9 @@ Tenho interesse nas áreas de qualidade de software, testes funcionais, análise
 Minha experiência administrativa também contribuiu para desenvolver organização, visão de processos, comunicação e capacidade de resolver problemas. Atualmente, sigo aprendendo, praticando e compartilhando meus projetos por aqui.
 
 Acredito que cada projeto é uma oportunidade de evoluir, trocar conhecimentos e transformar ideias em soluções úteis. Estou aberto a novas experiências, colaborações e oportunidades para iniciar minha carreira em tecnologia.
+
+<div align="center">
+  <a href="https://linkedin.com/in/giovane-lucas-fonseca-dias" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
+  <a href="mailto:SEU_EMAIL@DOMINIO.COM"><img src="https://shields.io" alt="Email"></a>
+</div>
