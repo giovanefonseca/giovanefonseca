@@ -9,11 +9,13 @@ Minha experiência administrativa também contribuiu para desenvolver organizaç
 Acredito que cada projeto é uma oportunidade de evoluir, trocar conhecimentos e transformar ideias em soluções úteis. Estou aberto a novas experiências, colaborações e oportunidades para iniciar minha carreira em tecnologia.
 
 <div align="center">
-  <a href="https://linkedin.com/in/giovane-lucas-fonseca-dias" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://instagram.com/giovaneld" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
-  <a href="mailto:giovanelucaa@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="https://linkedin.com/giovane-lucas-fonseca-dias" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/giovaneld" target="_blank">
+    <img src="https://githubusercontent.com" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="mailto:giovanelucaa@gmail.com">
+    <img src="https://githubusercontent.com" alt="Gmail" width="40" height="40" />
+  </a>
 </div>
-
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/giovane-lucas-fonseca-dias)
-[![Instagram](https://shields.io)](https://instagram.com/giovaneld)
-[![Email](https://shields.io)](mailto:giovanelucaa@gmail.com)
