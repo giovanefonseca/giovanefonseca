@@ -21,17 +21,6 @@
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,figma,vscode"
-    alt="Tecnologias e ferramentas"
-  />
-</p>
-
----
-
 ## 📌 Projetos em destaque
 
 ### 📚 STUDAI
@@ -54,24 +43,6 @@ auxiliar pessoas com deficiência visual na identificação de obstáculos.
 - Estudo da aplicação de sensores de proximidade;
 - Criação de uma solução voltada à acessibilidade;
 - Trabalho em equipe e apresentação do projeto.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=giovanefonseca&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanefonseca&layout=compact&theme=transparent&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
 
 ---
 
