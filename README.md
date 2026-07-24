@@ -10,4 +10,4 @@ Acredito que cada projeto é uma oportunidade de evoluir, trocar conhecimentos e
 
 # 📬 Contatos
 
-[![LinkedIn](https://githubusercontent.com)](https://linkedin.com/giovane-lucas-fonseca-dias) &nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://githubusercontent.com)](https://instagram.com/giovaneld) &nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://githubusercontent.com)](mailto:giovanelucaa@gmail.com)
+[![LinkedIn]([https://githubusercontent.com](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png))](https://linkedin.com/giovane-lucas-fonseca-dias) &nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://githubusercontent.com)](https://instagram.com/giovaneld) &nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://githubusercontent.com)](mailto:giovanelucaa@gmail.com)
