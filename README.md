@@ -21,31 +21,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-### 📚 STUDAI
-
-Plataforma de estudos criada para auxiliar estudantes na organização de tarefas,
-participação em comunidades e realização de quizzes.
-
-- Testes funcionais e validação de critérios de aceitação;
-- Apoio à organização do backlog e documentação de requisitos;
-- Revisão de interfaces em HTML e CSS;
-- Aplicação de conceitos de UX/UI Design;
-- Validação das entregas realizadas durante as sprints.
-
-### 👓 OLHAI
-
-Projeto acadêmico de um óculos com sensor de proximidade, desenvolvido para
-auxiliar pessoas com deficiência visual na identificação de obstáculos.
-
-- Desenvolvimento da ideia e levantamento de requisitos;
-- Estudo da aplicação de sensores de proximidade;
-- Criação de uma solução voltada à acessibilidade;
-- Trabalho em equipe e apresentação do projeto.
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="left">
