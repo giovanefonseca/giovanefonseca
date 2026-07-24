@@ -13,3 +13,7 @@ Acredito que cada projeto é uma oportunidade de evoluir, trocar conhecimentos e
   <a href="https://instagram.com/giovaneld" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
   <a href="mailto:giovanelucaa@gmail.com"><img src="https://shields.io" alt="Email"></a>
 </div>
+
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/giovane-lucas-fonseca-dias)
+[![Instagram](https://shields.io)](https://instagram.com/giovaneld)
+[![Email](https://shields.io)](mailto:giovanelucaa@gmail.com)
